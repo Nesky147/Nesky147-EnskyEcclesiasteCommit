@@ -2,8 +2,6 @@ package ecclesiasteen.at02;
 
 import java.util.Scanner;
 
-import javax.print.DocFlavor.STRING;
-
 public class at02Ex01 {
     static void probleme1(){
         Scanner scanner = new Scanner(System.in);
